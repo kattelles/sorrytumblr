@@ -10,9 +10,9 @@ body {
 }
 body img {
   margin: 0 auto;
-  height: 300px;
-  width: 300px;
-  padding: 0px;
+  height: auto;
+  width: 250px;
+  padding: 10px;
 }
 
 .text {
@@ -24,4 +24,12 @@ body img {
 
 .text a {
   color: #8ed2c9;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+  color: white;
+  text-align: center;
+  font-weight: 400;
 }
