@@ -26,10 +26,15 @@ body img {
   color: #8ed2c9;
 }
 
+h1 a {
+  color: #8ed2c9;
+}
+
 h1 {
   margin: 0;
   padding: 0;
   color: white;
   text-align: center;
   font-weight: 400;
+  font-size: 28spx;
 }
